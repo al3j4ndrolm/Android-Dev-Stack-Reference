@@ -7,3 +7,4 @@
 ## Firebase
 ### Authentication
 - [Firebase Pre-Built Sign-in UI](https://firebase.google.com/docs/auth/android/firebaseui) : Provides a Sign-in button from multiple providers. Ex. "Sign in with Google"
+- [Email & Password Auth](https://firebase.google.com/docs/auth/android/password-auth) : How to implement email & password auth for an app
