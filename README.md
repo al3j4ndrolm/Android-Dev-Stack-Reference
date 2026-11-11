@@ -4,3 +4,6 @@
 ## UI
 ### Fonts
 - [Google Downloadable Fonts API](https://developer.android.com/develop/ui/compose/text/fonts#use-downloadable-fonts) : Use [Google Fonts](https://fonts.google.com/?preview.layout=grid) without adding the assets to the project
+## Firebase
+### Authentication
+- [Firebase Pre-Built Sign-in UI](https://firebase.google.com/docs/auth/android/firebaseui) : Provides a Sign-in button from multiple providers. Ex. "Sign in with Google"
