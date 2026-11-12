@@ -7,6 +7,7 @@
  2. Add to the app level gradle : ```id("com.google.gms.google-services")```
 ### Authentication
 - **[Firebase Pre-Built Sign-in UI](https://firebase.google.com/docs/auth/android/firebaseui)** : Provides a Sign-in button from multiple providers. Ex. "Sign in with Google"
+   - To obtain SHA-1 : ```./gradlew signingReport```
 - **[Email & Password Auth](https://firebase.google.com/docs/auth/android/password-auth)** : How to implement email & password auth for an app
 ## Dependency Injection
  - **[Hilt](https://developer.android.com/training/dependency-injection/hilt-android#kts)** : To inject repositories, modules and viewmodels (and cache them)
