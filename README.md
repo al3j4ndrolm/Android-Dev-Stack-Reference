@@ -16,6 +16,10 @@
     
 - **[Email & Password Auth](https://firebase.google.com/docs/auth/android/password-auth)** : How to implement email & password auth for an app
 
+### Database
+- [**Firestore**](https://firebase.google.com/docs/firestore/quickstart#android) : Collections/Documents Database + Live Updates
+- Firestore Rules
+
 ## Dependency Injection
  - **[Hilt](https://developer.android.com/training/dependency-injection/hilt-android#kts)** : To inject repositories, modules and viewmodels (and cache them)
    - **Implement [KSP](https://kotlinlang.org/docs/ksp-quickstart.html)**
