@@ -1,4 +1,5 @@
 ## UI
+<img width="34" height="36" alt="image-1794542913190" src="https://github.com/user-attachments/assets/de5b4506-1686-45f2-a83c-0efa95c1d52a" />
 
 ### Fonts
 - **[Google Downloadable Fonts API](https://developer.android.com/develop/ui/compose/text/fonts#use-downloadable-fonts)** : Use [Google Fonts](https://fonts.google.com/?preview.layout=grid) without adding the assets to the project
