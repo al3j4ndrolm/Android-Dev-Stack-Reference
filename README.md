@@ -1,5 +1,5 @@
-## UI
-<img width="34" height="36" alt="image-1794542913190" src="https://github.com/user-attachments/assets/de5b4506-1686-45f2-a83c-0efa95c1d52a" />
+## <img width="34" height="36" alt="image-1794542913190" src="https://github.com/user-attachments/assets/de5b4506-1686-45f2-a83c-0efa95c1d52a" /> UI
+
 
 ### Fonts
 - **[Google Downloadable Fonts API](https://developer.android.com/develop/ui/compose/text/fonts#use-downloadable-fonts)** : Use [Google Fonts](https://fonts.google.com/?preview.layout=grid) without adding the assets to the project
@@ -21,7 +21,7 @@
 - [**Firestore**](https://firebase.google.com/docs/firestore/quickstart#android) : Collections/Documents Database + Live Updates
 - [**Firestore Rules**](https://firebase.google.com/docs/firestore/security/get-started) : Who reads / who writes
 
-## Dependency Injection
+## <img width="34" height="36" alt="image-1794542913190" src="https://github.com/user-attachments/assets/de5b4506-1686-45f2-a83c-0efa95c1d52a" /> Dependency Injection
  - **[Hilt](https://developer.android.com/training/dependency-injection/hilt-android#kts)** : To inject repositories, modules and viewmodels (and cache them)
    - **Implement [KSP](https://kotlinlang.org/docs/ksp-quickstart.html)**
  - **[Hilt Compose](https://developer.android.com/training/dependency-injection/hilt-jetpack)** : To use **hiltViewModel()** in Jetpack Compose
