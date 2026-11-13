@@ -18,6 +18,6 @@
 
 ## Dependency Injection
  - **[Hilt](https://developer.android.com/training/dependency-injection/hilt-android#kts)** : To inject repositories, modules and viewmodels (and cache them)
-   - **Needs : [KSP](https://kotlinlang.org/docs/ksp-quickstart.html)**
+   - **Implement [KSP](https://kotlinlang.org/docs/ksp-quickstart.html)**
  - **[Hilt Compose](https://developer.android.com/training/dependency-injection/hilt-jetpack)** : To use **hiltViewModel()** in Jetpack Compose
 
