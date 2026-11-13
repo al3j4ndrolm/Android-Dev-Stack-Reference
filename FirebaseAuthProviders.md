@@ -26,5 +26,11 @@ provider(
 ## Phone
 *Important: add both SHA-1 and SHA-256 in the console. For testing without real SMS, add test phone numbers under Phone → “Phone numbers for testing”.*
 ```
-provider(AuthProvider.Phone())
+provider(
+    AuthProvider.Phone(
+        defaultNumber = null,
+        defaultCountryCode = null,
+        allowedCountries = null,
+    )
+)
 ```
