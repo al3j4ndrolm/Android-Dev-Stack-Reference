@@ -18,7 +18,7 @@
 
 ### Database
 - [**Firestore**](https://firebase.google.com/docs/firestore/quickstart#android) : Collections/Documents Database + Live Updates
-- Firestore Rules
+- [**Firestore Rules**](https://firebase.google.com/docs/firestore/security/get-started) : Who reads / who writes
 
 ## Dependency Injection
  - **[Hilt](https://developer.android.com/training/dependency-injection/hilt-android#kts)** : To inject repositories, modules and viewmodels (and cache them)
