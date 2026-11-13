@@ -11,7 +11,7 @@
 
 ### Authentication
 - **[Firebase Pre-Built Sign-in UI](https://firebase.google.com/docs/auth/android/firebaseui)** : Provides a Sign-in button from multiple providers. Ex. "Sign in with Google"
-   - [Get Providers (Google, Email ...)](https://github.com/al3j4ndrolm/Android-Dev-Stack-Reference/tree/main)
+   - [Get Providers (Google, Email ...)]([https://github.com/al3j4ndrolm/Android-Dev-Stack-Reference/tree/main](https://github.com/al3j4ndrolm/Android-Dev-Stack-Reference/blob/main/FirebaseAuthProviders.md))
    - [See repository documentation](https://github.com/firebase/FirebaseUI-Android/blob/master/auth/README.md#high-level-api-recommended)
     
 - **[Email & Password Auth](https://firebase.google.com/docs/auth/android/password-auth)** : How to implement email & password auth for an app
